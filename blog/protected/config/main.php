@@ -47,8 +47,8 @@ return array(
 
 		// database settings are configured in database.php
         'db'=>array(
-            'connectionString' => 'sqlite:protected/data/blog.db',
-            'tablePrefix' => 'tbl_',
+            'connectionString'=>'sqlite:protected/data/blog.db',
+            'tablePrefix'=>'tbl_',
         ),
 
 		'errorHandler'=>array(
